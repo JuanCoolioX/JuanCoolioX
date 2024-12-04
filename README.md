@@ -1,7 +1,7 @@
 #Coolio## 
 
 <!--
-**JuanCoolioX/JuanCoolioX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JuanCoolioX/JuanCoolioX** is a ✨ _special_ ✨ repository because its #Coolio##
 
 Here are some ideas to get you started:
 
