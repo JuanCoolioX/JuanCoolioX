@@ -1,7 +1,11 @@
-#Coolio## **JuanCoolioX/JuanCoolioX** is a ✨ #Coolio## ✨ repository because its #Coolio##
+#Coolio##
+**JuanCoolioX/JuanCoolioX**
+✨ #Coolio## ✨ repository 
+
+#Coolio##
 
 <!--
-**JuanCoolioX/JuanCoolioX** is a ✨ _special_ ✨ repository because its #Coolio##
+
 
 Here are some ideas to get you started:
 
